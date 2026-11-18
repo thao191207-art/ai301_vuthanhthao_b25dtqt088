@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+agent/data/uploads/*
+!agent/data/uploads/.gitkeep
+agent/data/exports/*
+!agent/data/exports/.gitkeep
+.vscode/
+.idea/
